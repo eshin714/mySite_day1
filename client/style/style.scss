@@ -1,0 +1,26 @@
+$primaryColor: $eeffcc;
+$container-width: 100%;
+
+
+body {
+  $primaryColor: #ccc !global;
+  background: $primaryColor;
+}
+
+p {
+  color: $primaryColor;
+}
+
+
+
+.container {
+  width: $container-width;
+    h1 {
+        color: red;
+    }
+}
+}
+
+.col-4 {
+  width: $container-width / 4;
+}

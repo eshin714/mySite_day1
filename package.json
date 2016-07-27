@@ -1,0 +1,22 @@
+{
+  "name": "mysite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eshinx1/mySite_day1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eshinx1/mySite_day1/issues"
+  },
+  "homepage": "https://github.com/eshinx1/mySite_day1#readme",
+  "dependencies": {
+    "node-sass": "^3.8.0"
+  }
+}
